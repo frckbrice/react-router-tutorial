@@ -1,5 +1,5 @@
 {
-  "name": "plusminus",
+  "name": "react-router-project",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -45,5 +45,21 @@
     "eslint-plugin-react": "^7.31.11",
     "eslint-plugin-react-hooks": "^4.6.0",
     "prettier": "^2.8.2"
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frckbrice/react-router-tutorial.git"
+  },
+  "keywords": [
+    "'react",
+    "router'"
+  ],
+  "author": "Avom Brice",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/frckbrice/react-router-tutorial/issues"
+  },
+  "homepage": "https://github.com/frckbrice/react-router-tutorial#readme"
 }
